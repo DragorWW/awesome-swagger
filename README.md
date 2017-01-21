@@ -3,7 +3,7 @@
 A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny things.
 
 * [Awesome Swagger](#awesome-swagger)
-  * [Real api with Swagger][#real-api-with-swagger]
+  * [Real api with Swagger](#real-api-with-swagger)
   * [Docs](#docs)
   * [Editors](#editors)
   * [Docs generator](#docs-generator)
