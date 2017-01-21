@@ -2,14 +2,20 @@
 
 A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny things.
 
+
 * [Awesome Swagger](#awesome-swagger)
+  * [Specification](#specification)
   * [Real api with Swagger](#real-api-with-swagger)
   * [Docs](#docs)
   * [Editors](#editors)
   * [Docs generator](#docs-generator)
+  * [Code generator](#code-generator)
   * [Convectors](#convectors)
   * [Parsers](#parsers)
   * [JS](#js)
+
+## Specification
+- [The OpenAPI Specification (fka The Swagger Specification)](https://www.openapis.org/)
 
 ## Real api with Swagger
 - [Wikipedia for WEB APIs](https://apis.guru/browse-apis/)
@@ -28,6 +34,9 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
 - [dapperdox](https://github.com/DapperDox/dapperdox)
 - [spectacle](https://github.com/sourcey/spectacle)
 - [swagger2markup](https://github.com/Swagger2Markup/swagger2markup)
+
+# Code generator
+- [swagger js/ts codegen](https://github.com/wcandillon/swagger-js-codegen)
 
 ## Convectors
 - to d.ts [dtsgenerator](https://www.npmjs.com/package/dtsgenerator)
