@@ -14,8 +14,10 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
 - [Understanding json schema](https://spacetelescope.github.io/understanding-json-schema/index.html)
 
 ## Editors
+- [swagger-editor](https://github.com/swagger-api/swagger-editor)
 
 ## Docs generator
+- [swagger-ui](https://github.com/swagger-api/swagger-ui)
 - [doca](https://github.com/cloudflare/doca)
 - [springfox](http://springfox.github.io/springfox/)
 - [ReDoc](https://github.com/Rebilly/ReDoc)
