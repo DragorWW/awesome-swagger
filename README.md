@@ -25,6 +25,7 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
 
 ## Editors
 - [swagger-editor](https://github.com/swagger-api/swagger-editor)
+- [Swagger Plugin for IntelliJ IDEA and other JetBrains IDE](https://github.com/zalando/intellij-swagger)
 
 ## Docs generator
 - [swagger-ui](https://github.com/swagger-api/swagger-ui)
