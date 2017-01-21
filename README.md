@@ -18,9 +18,11 @@ A collection of awesome [Swagger](https://developer.mozilla.org/en-US/docs/Web/J
 ## Docs generator
 - [doca](https://github.com/cloudflare/doca)
 - [springfox](http://springfox.github.io/springfox/)
+- [ReDoc](https://github.com/Rebilly/ReDoc)
 
 ## Convectors
 - to d.ts [dtsgenerator](https://www.npmjs.com/package/dtsgenerator)
+- [swagger2raml](https://github.com/8x8Cloud/swagger2raml)
 
 ## Parsers
 - [json-schema-ref-parser](https://github.com/BigstickCarpet/json-schema-ref-parser)
