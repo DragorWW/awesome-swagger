@@ -3,13 +3,18 @@
 A collection of awesome [Swagger](https://developer.mozilla.org/en-US/docs/Web/JavaScript) tools, resources and shiny things.
 
 * [Awesome Swagger](#awesome-swagger)
+  * [Docs](#docs)
   * [Editors](#editors)
   * [Docs generator](#docs-generator)
   * [Convectors](#convectors)
   * [Parsers](#parsers)
   * [JS](#js)
-  
+
+## Docs
+- [Understanding json schema](https://spacetelescope.github.io/understanding-json-schema/index.html)
+
 ## Editors
+
 ## Docs generator
 - [doca](https://github.com/cloudflare/doca)
 - [springfox](http://springfox.github.io/springfox/)
