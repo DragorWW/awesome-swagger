@@ -21,6 +21,8 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
 - [doca](https://github.com/cloudflare/doca)
 - [springfox](http://springfox.github.io/springfox/)
 - [ReDoc](https://github.com/Rebilly/ReDoc)
+- [dapperdox](https://github.com/DapperDox/dapperdox)
+- [spectacle](https://github.com/sourcey/spectacle)
 
 ## Convectors
 - to d.ts [dtsgenerator](https://www.npmjs.com/package/dtsgenerator)
