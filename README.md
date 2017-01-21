@@ -4,5 +4,9 @@ A collection of awesome [Swagger](https://developer.mozilla.org/en-US/docs/Web/J
 
 * [Awesome Swagger](#awesome-swagger)
   * [Editors](#editors)
+  * [Convectors](#convectors)
   
 ## Editors
+
+## Convectors
+- to d.ts [dtsgenerator](https://www.npmjs.com/package/dtsgenerator)
