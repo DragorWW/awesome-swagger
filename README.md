@@ -23,6 +23,7 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
 - [ReDoc](https://github.com/Rebilly/ReDoc)
 - [dapperdox](https://github.com/DapperDox/dapperdox)
 - [spectacle](https://github.com/sourcey/spectacle)
+- [swagger2markup](https://github.com/Swagger2Markup/swagger2markup)
 
 ## Convectors
 - to d.ts [dtsgenerator](https://www.npmjs.com/package/dtsgenerator)
