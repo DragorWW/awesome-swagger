@@ -5,8 +5,12 @@ A collection of awesome [Swagger](https://developer.mozilla.org/en-US/docs/Web/J
 * [Awesome Swagger](#awesome-swagger)
   * [Editors](#editors)
   * [Convectors](#convectors)
+  * [Parsers](#parsers)
   
 ## Editors
 
 ## Convectors
 - to d.ts [dtsgenerator](https://www.npmjs.com/package/dtsgenerator)
+
+## Parsers
+- [json-schema-ref-parser](https://github.com/BigstickCarpet/json-schema-ref-parser)
