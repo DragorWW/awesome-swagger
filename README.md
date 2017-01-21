@@ -6,6 +6,7 @@ A collection of awesome [Swagger](https://developer.mozilla.org/en-US/docs/Web/J
   * [Editors](#editors)
   * [Convectors](#convectors)
   * [Parsers](#parsers)
+  * [JS](#js)
   
 ## Editors
 
@@ -14,3 +15,6 @@ A collection of awesome [Swagger](https://developer.mozilla.org/en-US/docs/Web/J
 
 ## Parsers
 - [json-schema-ref-parser](https://github.com/BigstickCarpet/json-schema-ref-parser)
+
+## JS
+- [webpack json schema loader](https://github.com/cloudflare/json-schema-loader)
