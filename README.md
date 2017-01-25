@@ -23,6 +23,7 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
 
 ## Docs
 - [Understanding json schema](https://spacetelescope.github.io/understanding-json-schema/index.html)
+- [Writing OpenAPI (Swagger) Specification Tutorial](https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction) 
 
 ## Editors
 - [swagger-editor](https://github.com/swagger-api/swagger-editor)
