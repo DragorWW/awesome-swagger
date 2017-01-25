@@ -8,6 +8,7 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
   * [Real api with Swagger](#real-api-with-swagger)
   * [Docs](#docs)
   * [Editors](#editors)
+  * [Validators](#validators)
   * [Docs generator](#docs-generator)
   * [Code generator](#code-generator)
   * [Convectors](#convectors)
@@ -26,6 +27,10 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
 ## Editors
 - [swagger-editor](https://github.com/swagger-api/swagger-editor)
 - [Swagger Plugin for IntelliJ IDEA and other JetBrains IDE](https://github.com/zalando/intellij-swagger)
+
+## Validators
+- [swagger-validator](https://www.npmjs.com/package/swagger-validator)
+- [swagger-cli](https://github.com/BigstickCarpet/swagger-cli)
 
 ## Docs generator
 - [swagger-ui](https://github.com/swagger-api/swagger-ui)
