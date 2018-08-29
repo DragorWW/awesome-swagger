@@ -57,6 +57,7 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
 ## Parsers
 - [json-schema-ref-parser](https://github.com/BigstickCarpet/json-schema-ref-parser)
 - [json-refs](https://github.com/whitlockjc/json-refs)
+- [yamlinc](https://github.com/javanile/yamlinc)
 
 ## JS
 - [webpack json schema loader](https://github.com/cloudflare/json-schema-loader)
