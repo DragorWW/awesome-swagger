@@ -50,6 +50,7 @@ A collection of awesome [Swagger](http://swagger.io/) tools, resources and shiny
 - [swagger js/ts codegen](https://github.com/wcandillon/swagger-js-codegen)
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen)
 - [swagger-to](https://github.com/Parquery/swagger-to)
+- [swaggie](https://github.com/yhnavein/swaggie)
 
 ## Convectors
 - [dtsgenerator - TypeScript d.ts file generate from JSON Schema file](https://www.npmjs.com/package/dtsgenerator)
